@@ -1,5 +1,6 @@
 from django.shortcuts import render
 from django.views.decorators.csrf import csrf_exempt
+from Book.rabbit_messaging import send_to_rabbitmq
 from rest_framework.parsers import JSONParser
 from django.http.response import JsonResponse
 from bson import ObjectId
@@ -13,6 +14,12 @@ from bs4 import BeautifulSoup, NavigableString
 from PIL import Image
 import os
 import re
+
+
+def some_view(request):
+    # Example usage
+    send_to_rabbitmq("Hello from Django!")
+    return JsonResponse({"message": "Message sent to RabbitMQ!"})
 
 # Create your views here.
 @csrf_exempt

@@ -1,0 +1,12 @@
+Django==4.1.13
+djangorestframework
+django-cors-headers
+djongo
+ebooklib
+beautifulsoup4
+Pillow
+spacy
+translate
+pytz
+djongo
+pika

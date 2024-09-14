@@ -1,0 +1,2553 @@
+.body {
+    color: black;
+    display: block;
+    font-family: "Verdana", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    margin: 1em 0
+}
+
+.bodychar {
+    color: black;
+    font-family: "Verdana", "sans-serif"
+}
+
+.bold {
+    font-weight: bold
+}
+
+.calibre {
+    display: block;
+    font-size: 1.29167em;
+    line-height: 1.4;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+}
+
+.calibre1 {
+    display: block
+}
+
+.calibre2 {
+    height: auto;
+    line-height: 1.4;
+    width: auto
+}
+
+.calibre3 {
+    display: block;
+    line-height: 1.4
+}
+
+.calibre4 {
+    line-height: 1.4
+}
+
+.calibre5 {
+    display: table-row;
+    line-height: 1.4;
+    vertical-align: middle
+}
+
+.calibre6 {
+    font-size: 1em;
+    line-height: 1.4;
+    vertical-align: super
+}
+
+.calibre7 {
+    font-style: italic;
+    line-height: 1.4
+}
+
+.calibre8 {
+    line-height: 1.4;
+    text-decoration: line-through
+}
+
+.calibre9 {
+    display: block
+}
+
+.callout {
+    color: black;
+    display: block;
+    font-family: "Verdana", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    margin: 1.2em 0 1.2em 1.4em
+}
+
+.callouthead {
+    color: #960000;
+    font-family: "Arial", "sans-serif";
+    font-size: 0.83333em;
+    font-weight: bold;
+    line-height: 1.4;
+    text-transform: uppercase
+}
+
+.codea {
+    background-color: #F2F2F2;
+    color: black;
+    display: block;
+    font-family: "Courier New";
+    font-size: 0.64516em;
+    text-indent: 0;
+    padding: 10px 5px;
+    margin: 1em 0 1em 3.4em
+}
+
+.codea2cxspfirst {
+    background-color: #F2F2F2;
+    color: black;
+    display: block;
+    font-family: "Courier New";
+    font-size: 0.64516em;
+    text-indent: 0;
+    padding: 20px 5px 0;
+    margin: 1em 0 0 3.4em
+}
+
+.codea2cxsplast {
+    background-color: #F2F2F2;
+    color: black;
+    display: block;
+    font-family: "Courier New";
+    font-size: 0.64516em;
+    text-indent: 0;
+    padding: 0 5px 20px;
+    margin: 0 0 1em 3.4em
+}
+
+.codea2cxspmiddle {
+    background-color: #F2F2F2;
+    color: black;
+    display: block;
+    font-family: "Courier New";
+    font-size: 0.64516em;
+    text-indent: 0;
+    padding: 0 5px;
+    margin: 0 0 0 3.4em
+}
+
+.codeannotationleft {
+    color: black;
+    display: block;
+    font-family: "Arial Rounded MT Bold", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    text-indent: -1.4em;
+    margin: 0.6em 0 1.2em 1.4em
+}
+
+.codeannotationleft1 {
+    display: block;
+    font-family: "Arial Rounded MT Bold", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    text-indent: -1.4em;
+    margin: 0.6em 0 1.2em 1.4em
+}
+
+.codeannotationleftchar {
+    font-family: "Arial Rounded MT Bold", "sans-serif"
+}
+
+.codeannotationleftcxspfirst {
+    color: black;
+    display: block;
+    font-family: "Arial Rounded MT Bold", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    text-indent: -1.4em;
+    margin: 0.6em 0 0 1.4em
+}
+
+.codeannotationleftcxspfirst1 {
+    display: block;
+    font-family: "Arial Rounded MT Bold", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    text-indent: -1.4em;
+    margin: 0.6em 0 0 1.4em
+}
+
+.codeannotationleftcxsplast {
+    color: black;
+    display: block;
+    font-family: "Arial Rounded MT Bold", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    text-indent: -1.4em;
+    margin: 0 0 1.2em 1.4em
+}
+
+.codeannotationleftcxsplast1 {
+    display: block;
+    font-family: "Arial Rounded MT Bold", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    text-indent: -1.4em;
+    margin: 0 0 1.2em 1.4em
+}
+
+.codeannotationleftcxspmiddle {
+    color: black;
+    display: block;
+    font-family: "Arial Rounded MT Bold", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    text-indent: -1.4em;
+    margin: 0 0 0 1.4em
+}
+
+.codeannotationleftcxspmiddle1 {
+    display: block;
+    font-family: "Arial Rounded MT Bold", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    text-indent: -1.4em;
+    margin: 0 0 0 1.4em
+}
+
+.codeb {
+    background-color: #F2F2F2;
+    color: black;
+    display: block;
+    font-family: "Courier New";
+    font-size: 0.64516em;
+    text-indent: 0;
+    padding: 10px 5px;
+    margin: 0.6em 0 1em
+}
+
+.codebchar {
+    background: #F2F2F2;
+    font-family: "Courier New"
+}
+
+.codebcxspfirst {
+    background-color: #F2F2F2;
+    color: black;
+    display: block;
+    font-family: "Courier New";
+    font-size: 0.64516em;
+    text-indent: 0;
+    padding: 10px 10px 0;
+    margin: 0.6em 0 0
+}
+
+.codebcxsplast {
+    background-color: #F2F2F2;
+    color: black;
+    display: block;
+    font-family: "Courier New";
+    font-size: 0.64516em;
+    text-indent: 0;
+    padding: 0 10px 20px;
+    margin: 0 0 1em
+}
+
+.codebcxspmiddle {
+    background-color: #F2F2F2;
+    color: black;
+    display: block;
+    font-family: "Courier New";
+    font-size: 0.64516em;
+    text-indent: 0;
+    padding: 0 10px;
+    margin: 0
+}
+
+.codecbluebold {
+    color: #00C;
+    font-family: "Courier New";
+    font-weight: bold
+}
+
+.codecbrown {
+    color: #984806;
+    font-family: "Courier New"
+}
+
+.codecgreen {
+    color: #090;
+    font-family: "Courier New"
+}
+
+.codecmagenta {
+    color: #C0C;
+    font-family: "Courier New"
+}
+
+.codecreddark {
+    color: #A31515;
+    font-family: "Courier New"
+}
+
+.codecwhite {
+    color: #F2F2F2;
+    font-family: "Courier New";
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 1.4;
+    text-decoration: none;
+    vertical-align: baseline
+}
+
+.codeinbold {
+    color: black;
+    font-family: "Courier New";
+    font-weight: bold
+}
+
+.codeinfootnote {
+    color: #244061;
+    font-family: "Courier New";
+    letter-spacing: 0;
+    line-height: 1.4;
+    text-decoration: none;
+    vertical-align: baseline
+}
+
+.codeinitalic {
+    font-family: "Courier New";
+    font-style: italic
+}
+
+.codeinred {
+    color: #960000;
+    font-family: "Courier New";
+    letter-spacing: 0;
+    text-decoration: none;
+    vertical-align: baseline
+}
+
+.codeinred1 {
+    color: #960000;
+    font-family: "Courier New";
+    letter-spacing: 0;
+    line-height: 1.4;
+    text-decoration: none;
+    vertical-align: baseline
+}
+
+.codeintext {
+    color: black;
+    font-family: "Courier New";
+    text-decoration: none
+}
+
+.codeintext1 {
+    color: black;
+    font-family: "Courier New";
+    font-size: 0.83333em;
+    line-height: 1.4;
+    text-decoration: none
+}
+
+.codeintext2 {
+    color: black;
+    font-family: "Courier New";
+    line-height: 1.4;
+    text-decoration: none
+}
+
+.codelistingcaption {
+    background: #960000;
+    color: #EAEAEA;
+    display: block;
+    font-family: "Arial", "sans-serif";
+    font-size: 0.77419em;
+    font-weight: bold;
+    line-height: 1.4;
+    page-break-after: avoid;
+    margin: 1em 0 0.6em
+}
+
+.copyright {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.4;
+    text-align: center;
+    margin: 0.67em 0
+}
+
+.cosummarybulletcxspfirst {
+    color: black;
+    display: block;
+    font-family: "Verdana", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    text-indent: -1.4em;
+    margin: 0.3em 0 0 3em
+}
+
+.cosummarybulletcxsplast {
+    color: black;
+    display: block;
+    font-family: "Verdana", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    text-indent: -1.4em;
+    margin: 0 0 0.6em 3em
+}
+
+.cosummarybulletcxspmiddle {
+    color: black;
+    display: block;
+    font-family: "Verdana", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    text-indent: -1.4em;
+    margin: 0 0 0 3em
+}
+
+.cosummaryhead {
+    color: black;
+    display: block;
+    font-family: "Verdana", "sans-serif";
+    font-size: 0.77419em;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 1.4;
+    page-break-after: avoid;
+    margin: 1.8em 0 0.6em
+}
+
+.figurea {
+    color: #00B050;
+    display: block;
+    font-family: "Times New Roman", "serif";
+    font-size: 1.29032em;
+    line-height: 1.4;
+    page-break-after: avoid;
+    margin: 1.2em 0 0.8em
+}
+
+.figureacaption {
+    color: #960000;
+    display: block;
+    font-family: "Arial", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    margin: 0.8em 0 1.8em
+}
+
+.footnote {
+    color: #17365D;
+    display: block;
+    font-family: "Verdana", "sans-serif";
+    font-size: 0.58065em;
+    line-height: 1.4;
+    margin: 0
+}
+
+.head {
+    color: #960000;
+    display: block;
+    font-family: "Arial", "sans-serif";
+    font-size: 1.2em;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 1.4;
+    page-break-after: avoid;
+    text-indent: -3em;
+    margin: 0.8em 0 0.2em 3em
+}
+
+.headb {
+    color: #960000;
+    display: block;
+    font-family: "Arial", "sans-serif";
+    font-size: 1em;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 1.4;
+    page-break-after: avoid;
+    text-indent: -3em;
+    margin: 0.8em 0 0.2em 3em
+}
+
+.head1 {
+    color: #960000;
+    display: block;
+    font-family: "Arial", "sans-serif";
+    font-size: 0.77419em;
+    font-weight: bold;
+    line-height: 1.4;
+    page-break-after: avoid;
+    text-transform: uppercase;
+    margin: 0.5em 0 0.1em
+}
+
+.head2 {
+    color: black;
+    display: block;
+    font-family: "Arial", "sans-serif";
+    font-size: 0.77419em;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 1.4;
+    page-break-after: avoid;
+    margin: 0.3em 0
+}
+
+.italics {
+    font-style: italic
+}
+
+.listbody {
+    color: black;
+    display: block;
+    font-family: "Verdana", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    margin: 0.4em 0 0.4em 3em
+}
+
+.listbullet {
+    color: black;
+    display: block;
+    font-family: "Verdana", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    text-indent: -1.4em;
+    margin: 0.4em 0 0.4em 2.8em
+}
+
+.listbulletcxspfirst {
+    color: black;
+    display: block;
+    font-family: "Verdana", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    text-indent: -1.4em;
+    margin: 0.4em 0 0 2.8em
+}
+
+.listbulletcxsplast {
+    color: black;
+    display: block;
+    font-family: "Verdana", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    text-indent: -1.4em;
+    margin: 0 0 0.4em 2.8em
+}
+
+.listbulletcxsplast1 {
+    color: black;
+    display: block;
+    font-family: "Verdana", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    text-indent: -1.4em;
+    margin: 0 0 0.4em 4.2em
+}
+
+.listbulletcxspmiddle {
+    color: black;
+    display: block;
+    font-family: "Verdana", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    text-indent: -1.4em;
+    margin: 0 0 0 2.8em
+}
+
+.listbulletcxspmiddle1 {
+    color: black;
+    display: block;
+    font-family: "Verdana", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    text-indent: -1.4em;
+    margin: 0 0 0 4.2em
+}
+
+.meap {
+    color: black;
+    display: block;
+    font-family: "Garamond", "serif";
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.4;
+    text-align: center;
+    margin: 0
+}
+
+.meapb {
+    color: black;
+    display: block;
+    font-family: "Garamond", "serif";
+    font-size: 1.29032em;
+    font-weight: bold;
+    line-height: 1.4;
+    text-align: center;
+    margin: 0
+}
+
+.meapbody {
+    color: black;
+    display: block;
+    font-family: "AGaramond", "serif";
+    font-size: 1em;
+    line-height: 1.4;
+    text-align: center;
+    margin: 0
+}
+
+.meapbody1 {
+    color: black;
+    display: block;
+    font-family: "Times New Roman", serif;
+    font-size: 1em;
+    line-height: 1.4;
+    text-align: center;
+    margin: 0
+}
+
+.meapbody2 {
+    color: black;
+    display: block;
+    font-family: "Garamond", "serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    text-align: center;
+    margin: 0
+}
+
+.meapbody3 {
+    color: black;
+    display: block;
+    font-family: Arial;
+    font-size: 0.77419em;
+    line-height: 1.4;
+    text-align: center;
+    margin: 0
+}
+
+.msofootnotereference {
+    color: #960000;
+    font-family: "Verdana", "sans-serif";
+    font-size: 0.83333em;
+    font-weight: bold;
+    line-height: 1.4;
+    vertical-align: super
+}
+
+.msofootnotereference1 {
+    color: #960000;
+    font-family: "Verdana", "sans-serif";
+    font-weight: bold;
+    vertical-align: super
+}
+
+.msofootnotereference2 {
+    color: red;
+    font-family: "Verdana", "sans-serif";
+    font-weight: bold;
+    line-height: 1.4;
+    text-decoration: line-through;
+    vertical-align: super
+}
+
+.msofootnotereference3 {
+    color: #960000;
+    font-family: "Verdana", "sans-serif";
+    font-weight: bold;
+    line-height: 1.4;
+    vertical-align: super
+}
+
+.msohyperlink {
+    color: #00C;
+    text-decoration: underline
+}
+
+.msonormaltable {
+    border-collapse: collapse;
+    border-spacing: 2px;
+    display: table;
+    line-height: 1.4;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0;
+    width: 100%
+}
+
+.msotablegrid {
+    border-collapse: collapse;
+    border-spacing: 2px;
+    display: table;
+    line-height: 1.4;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0;
+    width: 100%;
+    border: currentColor none medium
+}
+
+.section {
+    display: block;
+    line-height: 1.4;
+    page: Section1
+}
+
+.sgc {
+    font-family: "Times New Roman", "serif";
+    line-height: 1.4
+}
+
+.sgc1 {
+    font-family: "Times New Roman", "serif"
+}
+
+.sgc2 {
+    font-family: "Times New Roman", serif
+}
+
+.sgc3 {
+    font-family: "Calibri", "sans-serif";
+    font-size: 1em;
+    line-height: 1.4
+}
+
+.sgc4 {
+    font-size: 0.83333em;
+    line-height: 1.4
+}
+
+.sgc5 {
+    font-family: Verdana, sans-serif;
+    font-size: 1em;
+    line-height: 1.4
+}
+
+.sgc6 {
+    display: block;
+    font-size: 0.64516em
+}
+
+.sgc7 {
+    display: block;
+    line-height: 1.4;
+    text-align: center
+}
+
+.sgc8 {
+    display: block;
+    line-height: 1.4;
+    border-top: currentColor none medium;
+    border-right: currentColor none medium;
+    border-bottom: #662B27 solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0 0.1em
+}
+
+.sgc9 {
+    background: #E6E6E6;
+    display: block;
+    line-height: 1.4;
+    border-top: currentColor solid 0.2em;
+    border-right: currentColor none medium;
+    border-bottom: currentColor none medium;
+    border-left: currentColor none medium;
+    padding: 0.1em 0 0
+}
+
+.sgc10 {
+    background: #E6E6E6;
+    display: block;
+    line-height: 1.4;
+    border-top: currentColor none medium;
+    border-right: currentColor none medium;
+    border-bottom: currentColor solid 0.2em;
+    border-left: currentColor none medium;
+    padding: 0 0 0.1em
+}
+
+.sgc11 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 17.54%;
+    padding: 0 0.5em
+}
+
+.sgc12 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 19.74%;
+    padding: 0 0.5em
+}
+
+.sgc13 {
+    display: block;
+    line-height: 1.4;
+    border-top: currentColor none medium;
+    border-right: currentColor none medium;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0 0.1em
+}
+
+.sgc14 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 22.72%;
+    padding: 0 0.5em
+}
+
+.sgc15 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 20%;
+    padding: 0 0.5em
+}
+
+.sgc16 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 17.54%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc17 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 19.74%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc18 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 22.72%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc19 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 20%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc20 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 20%;
+    border-top: currentColor none medium;
+    border-right: currentColor none medium;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc21 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 17.54%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor none medium;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc22 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 19.74%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor none medium;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc23 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 22.72%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor none medium;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc24 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 20%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor none medium;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc25 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 20%;
+    border: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc26 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 23.96%;
+    padding: 0 0.5em
+}
+
+.sgc27 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 76.04%;
+    padding: 0 0.5em
+}
+
+.sgc28 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 23.96%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc29 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 76.04%;
+    border-top: currentColor none medium;
+    border-right: currentColor none medium;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc30 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 23.96%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor none medium;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc31 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 76.04%;
+    border: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc32 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 15.74%;
+    padding: 0 0.5em
+}
+
+.sgc33 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 84.26%;
+    padding: 0 0.5em
+}
+
+.sgc34 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 15.74%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc35 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 84.26%;
+    border-top: currentColor none medium;
+    border-right: currentColor none medium;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc36 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 15.74%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor none medium;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc37 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 84.26%;
+    border: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc38 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 20.76%;
+    padding: 0 0.5em
+}
+
+.sgc39 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 79.24%;
+    padding: 0 0.5em
+}
+
+.sgc40 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 20.76%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc41 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 79.24%;
+    border-top: currentColor none medium;
+    border-right: currentColor none medium;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc42 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 20.76%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor none medium;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc43 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 79.24%;
+    border: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc44 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 33.08%;
+    padding: 0 0.5em
+}
+
+.sgc45 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 66.92%;
+    padding: 0 0.5em
+}
+
+.sgc46 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 33.08%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc47 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 66.92%;
+    border-top: currentColor none medium;
+    border-right: currentColor none medium;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc48 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 33.08%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor none medium;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc49 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 66.92%;
+    border: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc50 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 21.12%;
+    padding: 0 0.5em
+}
+
+.sgc51 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 59.12%;
+    padding: 0 0.5em
+}
+
+.sgc52 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 21.12%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc53 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 59.12%;
+    border-top: currentColor none medium;
+    border-right: currentColor none medium;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc54 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 21.12%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor none medium;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc55 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 59.12%;
+    border: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc56 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 100%;
+    padding: 0 0.5em
+}
+
+.sgc57 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 16.26%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc58 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 83.74%;
+    border-top: currentColor none medium;
+    border-right: currentColor none medium;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc59 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 16.26%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor none medium;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc60 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 83.74%;
+    border: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc61 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 16.48%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc62 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 83.52%;
+    border-top: currentColor none medium;
+    border-right: currentColor none medium;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc63 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 16.48%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor none medium;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc64 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 83.52%;
+    border: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc65 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 16.78%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc66 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 83.22%;
+    border-top: currentColor none medium;
+    border-right: currentColor none medium;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc67 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 16.78%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor none medium;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc68 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 83.22%;
+    border: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc69 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 17.78%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc70 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 82.22%;
+    border-top: currentColor none medium;
+    border-right: currentColor none medium;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc71 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 17.78%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor none medium;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc72 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 82.22%;
+    border: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc73 {
+    color: black
+}
+
+.sgc74 {
+    color: black;
+    line-height: 1.4
+}
+
+.sgc75 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 78.88%;
+    border-top: currentColor none medium;
+    border-right: currentColor none medium;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc76 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 78.88%;
+    border: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc77 {
+    color: black;
+    line-height: 1.4;
+    text-decoration: none
+}
+
+.sgc78 {
+    display: table-row;
+    line-height: 1.4;
+    page-break-inside: avoid;
+    vertical-align: middle
+}
+
+.sgc79 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 23.8%;
+    padding: 0.3em
+}
+
+.sgc80 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 38.06%;
+    padding: 0.3em
+}
+
+.sgc81 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 38.12%;
+    padding: 0.3em
+}
+
+.sgc82 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 23.8%;
+    border-top: currentColor none medium;
+    border-right: black solid 0.1em;
+    border-bottom: black solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0.3em
+}
+
+.sgc83 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 38.06%;
+    border-top: currentColor none medium;
+    border-right: black solid 0.1em;
+    border-bottom: black solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0.3em
+}
+
+.sgc84 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 38.12%;
+    border-top: currentColor none medium;
+    border-right: currentColor none medium;
+    border-bottom: black solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0.3em
+}
+
+.sgc85 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 23.8%;
+    border-top: currentColor none medium;
+    border-right: black solid 0.1em;
+    border-bottom: currentColor none medium;
+    border-left: currentColor none medium;
+    padding: 0.3em
+}
+
+.sgc86 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 38.06%;
+    border-top: currentColor none medium;
+    border-right: black solid 0.1em;
+    border-bottom: currentColor none medium;
+    border-left: currentColor none medium;
+    padding: 0.3em
+}
+
+.sgc87 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 38.12%;
+    border: currentColor none medium;
+    padding: 0.3em
+}
+
+.sgc88 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 38.92%;
+    padding: 0.3em
+}
+
+.sgc89 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 61.08%;
+    padding: 0.3em
+}
+
+.sgc90 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 38.92%;
+    border-top: currentColor none medium;
+    border-right: black solid 0.1em;
+    border-bottom: black solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0.3em
+}
+
+.sgc91 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 61.08%;
+    border-top: currentColor none medium;
+    border-right: currentColor none medium;
+    border-bottom: black solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0.3em
+}
+
+.sgc92 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 38.92%;
+    border-top: currentColor none medium;
+    border-right: black solid 0.1em;
+    border-bottom: currentColor none medium;
+    border-left: currentColor none medium;
+    padding: 0.3em
+}
+
+.sgc93 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 61.08%;
+    border: currentColor none medium;
+    padding: 0.3em
+}
+
+.sgc94 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 20%;
+    padding: 0 0.6em
+}
+
+.sgc95 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 20%;
+    border-top: currentColor none medium;
+    border-right: black solid 0.1em;
+    border-bottom: black solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.6em
+}
+
+.sgc96 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 20%;
+    border-top: currentColor none medium;
+    border-right: currentColor none medium;
+    border-bottom: black solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.6em
+}
+
+.sgc97 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 20%;
+    border-top: currentColor none medium;
+    border-right: black solid 0.1em;
+    border-bottom: currentColor none medium;
+    border-left: currentColor none medium;
+    padding: 0 0.6em
+}
+
+.sgc98 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 20%;
+    border: currentColor none medium;
+    padding: 0 0.6em
+}
+
+.sgc99 {
+    display: table-row;
+    height: 1.5em;
+    line-height: 1.4;
+    vertical-align: middle
+}
+
+.sgc100 {
+    display: table-cell;
+    height: 1.5em;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 10.58%;
+    padding: 0 0.6em
+}
+
+.sgc101 {
+    display: table-cell;
+    height: 1.5em;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 22.36%;
+    padding: 0 0.6em
+}
+
+.sgc102 {
+    display: table-cell;
+    height: 1.5em;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 10.58%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.6em
+}
+
+.sgc103 {
+    display: table-cell;
+    height: 1.5em;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 22.36%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.6em
+}
+
+.sgc104 {
+    display: table-cell;
+    height: 1.5em;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 22.36%;
+    border-top: currentColor none medium;
+    border-right: currentColor none medium;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.6em
+}
+
+.sgc105 {
+    display: table-cell;
+    height: 1.5em;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 10.58%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor none medium;
+    border-left: currentColor none medium;
+    padding: 0 0.6em
+}
+
+.sgc106 {
+    display: table-cell;
+    height: 1.5em;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 22.36%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor none medium;
+    border-left: currentColor none medium;
+    padding: 0 0.6em
+}
+
+.sgc107 {
+    display: table-cell;
+    height: 1.5em;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 22.36%;
+    border: currentColor none medium;
+    padding: 0 0.6em
+}
+
+.sgc108 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 12.14%;
+    padding: 0 0.5em
+}
+
+.sgc109 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 16.16%;
+    padding: 0 0.5em
+}
+
+.sgc110 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 71.7%;
+    padding: 0 0.5em
+}
+
+.sgc111 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 12.14%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc112 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 16.16%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc113 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 71.7%;
+    border-top: currentColor none medium;
+    border-right: currentColor none medium;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc114 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 12.14%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor none medium;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc115 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 16.16%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor none medium;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc116 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 71.7%;
+    border: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc117 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 33.32%;
+    padding: 0 0.5em
+}
+
+.sgc118 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 33.34%;
+    padding: 0 0.5em
+}
+
+.sgc119 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 33.32%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc120 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 33.34%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc121 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 33.34%;
+    border-top: currentColor none medium;
+    border-right: currentColor none medium;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc122 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 33.32%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor none medium;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc123 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 33.34%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor none medium;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc124 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 33.34%;
+    border: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc125 {
+    font-family: "Courier New"
+}
+
+.sgc126 {
+    display: block;
+    font-size: 1.29167em;
+    line-height: 1.4;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+}
+
+.sgc127 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 19.32%;
+    padding: 0 0.5em
+}
+
+.sgc128 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 80.68%;
+    padding: 0 0.5em
+}
+
+.sgc129 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 19.32%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc130 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 80.68%;
+    border-top: currentColor none medium;
+    border-right: currentColor none medium;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc131 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 19.32%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor none medium;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc132 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 80.68%;
+    border: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc133 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 78.88%;
+    padding: 0 0.5em
+}
+
+.sgc134 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 23.76%;
+    padding: 0 0.5em
+}
+
+.sgc135 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 76.24%;
+    padding: 0 0.5em
+}
+
+.sgc136 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 23.76%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc137 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 76.24%;
+    border-top: currentColor none medium;
+    border-right: currentColor none medium;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc138 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 23.76%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor none medium;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc139 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 76.24%;
+    border: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc140 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 23.74%;
+    padding: 0 0.5em
+}
+
+.sgc141 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 76.26%;
+    padding: 0 0.5em
+}
+
+.sgc142 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 23.74%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc143 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 76.26%;
+    border-top: currentColor none medium;
+    border-right: currentColor none medium;
+    border-bottom: currentColor solid 0.1em;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc144 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 23.74%;
+    border-top: currentColor none medium;
+    border-right: currentColor solid 0.1em;
+    border-bottom: currentColor none medium;
+    border-left: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sgc145 {
+    display: table-cell;
+    line-height: 1.4;
+    text-align: inherit;
+    vertical-align: inherit;
+    width: 76.26%;
+    border: currentColor none medium;
+    padding: 0 0.5em
+}
+
+.sidebara {
+    background: #E6E6E6;
+    color: black;
+    display: block;
+    font-family: "Verdana", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    margin: 0
+}
+
+.sidebara1 {
+    background: #E6E6E6;
+    color: black;
+    display: block;
+    font-family: "Verdana", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    text-indent: 1em;
+    margin: 0
+}
+
+.sidebara2 {
+    background: #E6E6E6;
+    display: block;
+    font-family: "Verdana", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    margin: 0
+}
+
+.sidebaracode {
+    background: #E6E6E6;
+    color: black;
+    display: block;
+    font-family: "Courier New";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    margin: 0
+}
+
+.sidebaraend {
+    background: #E6E6E6;
+    color: black;
+    display: block;
+    font-family: "Verdana", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    border: currentColor none medium;
+    padding: 0;
+    margin: 0 0 1.2em
+}
+
+.sidebaraend1 {
+    background: #E6E6E6;
+    display: block;
+    font-family: "Verdana", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    border: currentColor none medium;
+    padding: 0;
+    margin: 0 0 1.2em
+}
+
+.sidebarahead {
+    background: #E6E6E6;
+    color: #960000;
+    display: block;
+    font-family: "Arial", "sans-serif";
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.4;
+    page-break-after: avoid;
+    border: currentColor none medium;
+    padding: 0;
+    margin: 1.8em 0 0
+}
+
+.tablebody {
+    color: black;
+    display: block;
+    font-family: "Arial", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    margin: 0.2em 0
+}
+
+.tablebody2cxspfirst {
+    color: black;
+    display: block;
+    font-family: "Arial", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    margin: 0.2em 0 0
+}
+
+.tablebody2cxsplast {
+    color: black;
+    display: block;
+    font-family: "Arial", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    margin: 0 0 0.2em
+}
+
+.tablebody2cxspmiddle {
+    color: black;
+    display: block;
+    font-family: "Arial", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    margin: 0
+}
+
+.tablecaption {
+    color: #960000;
+    display: block;
+    font-family: "Arial", "sans-serif";
+    font-size: 0.77419em;
+    line-height: 1.4;
+    page-break-after: avoid;
+    text-align: justify;
+    margin: 1.2em 0 0.6em
+}
+
+.tablehead {
+    color: #960000;
+    display: block;
+    font-family: "Arial", "sans-serif";
+    font-size: 0.77419em;
+    font-weight: bold;
+    line-height: 1.4;
+    page-break-after: avoid;
+    border: currentColor none medium;
+    padding: 0;
+    margin: 0.6em 0
+}
+
+.tocchapters {
+    color: #662B27;
+    display: block;
+    font-family: "NACNO F+ A Garamond", "serif";
+    font-size: 1em;
+    font-style: italic;
+    line-height: 1.4;
+    text-indent: -2.1em;
+    margin: 0.75em 0 0.75em 2.1em
+}
+
+.tochead {
+    color: #960000;
+    display: block;
+    font-family: "Arial", "sans-serif";
+    font-size: 1.41935em;
+    font-weight: bold;
+    line-height: 1.4;
+    page-break-after: avoid;
+    margin: 1.2em 0 0.3em
+}
+
+.tocparts {
+    color: #AB514C;
+    display: block;
+    font-family: "NACNM D+ New Baskerville", "serif";
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.4;
+    text-indent: -5em;
+    margin: 0 0 0 5em
+}
+
+.wordsection {
+    display: block;
+    line-height: 1.4;
+    page: WordSection1
+}
+
+.pcalibre2:link {
+    color: #00C
+}
+
+.pcalibre3:link {
+    color: #00C;
+    text-decoration: underline
+}
+
+.pcalibre:link {
+    color: blue;
+    text-decoration: underline
+}
+
+.pcalibre1:visited {
+    color: purple;
+    text-decoration: underline
+}
+
+/* Part of Speech Color Scheme */
+.VERB {
+    color: #E74C3C;  /* Red */
+}
+
+.NOUN {
+    color: #3498DB;  /* Blue */
+}
+
+.ADP {
+    color: #F39C12;  /* Orange */
+}
+
+.ADJ {
+    color: #9B59B6;  /* Purple */
+}
+
+.DET {
+    color: #2ECC71;  /* Green */
+}
+
+.PRON {
+    color: #1ABC9C;  /* Teal */
+}
+
+.ADV {
+    color: #E67E22;  /* Dark Orange */
+}
+
+.AUX {
+    color: #95A5A6;  /* Gray */
+}
+
+.CCONJ {
+    color: #34495E;  /* Dark Blue */
+}
+
+.SCONJ {
+    color: #16A085;  /* Dark Teal */
+}
+
+.PROPN {
+    color: #8E44AD;  /* Dark Purple */
+}
+
+.NUM {
+    color: #27AE60;  /* Dark Green */
+}
+
+.INTJ {
+    color: #D35400;  /* Dark Orange */
+}
+
+.PART {
+    color: #7F8C8D;  /* Light Gray */
+}
+
+.PUNCT {
+    color: #BDC3C7;  /* Very Light Gray */
+}
+
+.X {
+    color: #C0392B;  /* Dark Red */
+}
+
+.SPACE {        
+    color: #ECF0F1;  /* Almost White */
+}
+
+/* For multi-word expressions */
+.PHRASAL {
+    text-decoration: underline;
+}
+
